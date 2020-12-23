@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/debug/OnBoarding.build/master.swiftdeps"
+  },
+  "/Users/nirmalkumar_s/Downloads/OnBoarding/Sources/OnBoarding/OnBoarding.swift": {
+    "dependencies": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/debug/OnBoarding.build/OnBoarding.d",
+    "object": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/debug/OnBoarding.build/OnBoarding.swift.o",
+    "swiftmodule": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/debug/OnBoarding.build/OnBoarding~partial.swiftmodule",
+    "swift-dependencies": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/debug/OnBoarding.build/OnBoarding.swiftdeps"
+  }
+}

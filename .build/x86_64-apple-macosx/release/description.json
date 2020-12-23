@@ -1,0 +1,19 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "\/Users\/nirmalkumar_s\/Downloads\/OnBoarding\/.build\/x86_64-apple-macosx\/release\/OnBoardingPackageTests.xctest\/Contents\/MacOS\/OnBoardingPackageTests",
+      "packageName" : "OnBoarding",
+      "productName" : "OnBoardingPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftTargetMap" : {
+    "C.OnBoarding-release.module" : "OnBoarding",
+    "C.OnBoardingTests-release.module" : "OnBoardingTests"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

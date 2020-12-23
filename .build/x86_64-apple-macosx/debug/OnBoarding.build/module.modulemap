@@ -1,0 +1,4 @@
+module OnBoarding {
+    header "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/debug/OnBoarding.build/OnBoarding-Swift.h"
+    requires objc
+}

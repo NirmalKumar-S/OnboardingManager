@@ -1,0 +1,22 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "OnBoarding"
+provides-nominal:
+- "10OnBoardingAAV"
+provides-member:
+- ["10OnBoardingAAV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "OnBoarding"
+- "StringLiteralType"
+depends-member:
+- ["10OnBoardingAAV", "init"]
+- ["10OnBoardingAAV", "text"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+depends-nominal:
+- "10OnBoardingAAV"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/debug/OnBoarding.build/module.modulemap"
+interface-hash: "e02a1539bd8fd52e6a9b79f2ba0b9251"
