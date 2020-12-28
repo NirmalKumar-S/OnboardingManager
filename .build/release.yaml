@@ -89,7 +89,7 @@ commands:
 
   "OnBoarding-release.module-resources":
     tool: phony
-    inputs: ["/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding_OnBoarding.bundle/Common.xcassets/","/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding_OnBoarding.bundle/Preview Assets.xcassets/","/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding_OnBoarding.bundle/Assets.xcassets/"]
+    inputs: ["/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding_OnBoarding.bundle/Preview Assets.xcassets/","/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding_OnBoarding.bundle/Assets.xcassets/","/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding_OnBoarding.bundle/Common.xcassets/"]
     outputs: ["<OnBoarding-release.module-resources>"]
 
   "PackageStructure":

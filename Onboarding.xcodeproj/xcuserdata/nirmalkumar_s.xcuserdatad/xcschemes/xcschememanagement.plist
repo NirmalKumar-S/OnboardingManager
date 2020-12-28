@@ -12,12 +12,12 @@
 		<key>OnBoardingPackageDescription.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>5</integer>
 		</dict>
 		<key>OnBoardingPackageTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>3</integer>
 		</dict>
 		<key>Onboarding.xcscheme_^#shared#^_</key>
 		<dict>
