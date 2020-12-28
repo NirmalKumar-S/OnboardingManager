@@ -8,8 +8,8 @@
 import SwiftUI
 
 @main
-struct OnboardingTestApp: App {
-    var body: some Scene {
+ struct OnboardingTestApp: App {
+	var body: some Scene {
         WindowGroup {
             LandingView(logo: "GG Logo", titleText: "Every Star Starts at Galaxy", subTitleText: "Failure Notice")
         }

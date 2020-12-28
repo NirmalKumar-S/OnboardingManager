@@ -26,8 +26,8 @@
 		9C29078E2593563D00C45C36 /* OnboardingNotifications.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2907892593563D00C45C36 /* OnboardingNotifications.swift */; };
 		9C29078F2593563D00C45C36 /* OnboardingLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C29078A2593563D00C45C36 /* OnboardingLocation.swift */; };
 		9C2907902593563D00C45C36 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C29078B2593563D00C45C36 /* OnboardingView.swift */; };
-		9C2907B82593576300C45C36 /* OnboardingTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2907B22593576300C45C36 /* OnboardingTestApp.swift */; };
-		9C2907B92593576300C45C36 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2907B62593576300C45C36 /* ContentView.swift */; };
+		9CDB77A62599C20E00B8A579 /* OnboardingTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CDB77A02599C20E00B8A579 /* OnboardingTestApp.swift */; };
+		9CDB77A72599C20E00B8A579 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CDB77A42599C20E00B8A579 /* ContentView.swift */; };
 		OBJ_32 /* OnBoarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_9 /* OnBoarding.swift */; };
 		OBJ_39 /* Package.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_6 /* Package.swift */; };
 		OBJ_50 /* OnBoardingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_12 /* OnBoardingTests.swift */; };
@@ -61,11 +61,11 @@
 		9C2907892593563D00C45C36 /* OnboardingNotifications.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingNotifications.swift; sourceTree = "<group>"; };
 		9C29078A2593563D00C45C36 /* OnboardingLocation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingLocation.swift; sourceTree = "<group>"; };
 		9C29078B2593563D00C45C36 /* OnboardingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
-		9C2907B22593576300C45C36 /* OnboardingTestApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingTestApp.swift; sourceTree = "<group>"; };
-		9C2907B32593576300C45C36 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		9C2907B52593576300C45C36 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		9C2907B62593576300C45C36 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		9C2907B72593576300C45C36 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9CDB77A02599C20E00B8A579 /* OnboardingTestApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingTestApp.swift; sourceTree = "<group>"; };
+		9CDB77A12599C20E00B8A579 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9CDB77A32599C20E00B8A579 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9CDB77A42599C20E00B8A579 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		9CDB77A52599C20E00B8A579 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		OBJ_12 /* OnBoardingTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoardingTests.swift; sourceTree = "<group>"; };
 		OBJ_13 /* XCTestManifests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCTestManifests.swift; sourceTree = "<group>"; };
 		OBJ_17 /* OnboardingTestUITests */ = {isa = PBXFileReference; lastKnownFileType = folder; path = OnboardingTestUITests; sourceTree = SOURCE_ROOT; };
@@ -74,7 +74,7 @@
 		OBJ_20 /* Pods */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Pods; sourceTree = SOURCE_ROOT; };
 		OBJ_21 /* OnboardingTests */ = {isa = PBXFileReference; lastKnownFileType = folder; path = OnboardingTests; sourceTree = SOURCE_ROOT; };
 		OBJ_24 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		OBJ_25 /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
+		OBJ_25 /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		OBJ_26 /* Podfile.lock */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile.lock; sourceTree = "<group>"; };
 		OBJ_6 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		OBJ_9 /* OnBoarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoarding.swift; sourceTree = "<group>"; };
@@ -148,23 +148,23 @@
 			path = Onboarding;
 			sourceTree = "<group>";
 		};
-		9C2907B12593576300C45C36 /* OnboardingTest */ = {
+		9CDB779F2599C20E00B8A579 /* OnboardingMain */ = {
 			isa = PBXGroup;
 			children = (
-				9C2907B22593576300C45C36 /* OnboardingTestApp.swift */,
-				9C2907B32593576300C45C36 /* Assets.xcassets */,
-				9C2907B42593576300C45C36 /* Preview Content */,
-				9C2907B62593576300C45C36 /* ContentView.swift */,
-				9C2907B72593576300C45C36 /* Info.plist */,
+				9CDB77A02599C20E00B8A579 /* OnboardingTestApp.swift */,
+				9CDB77A12599C20E00B8A579 /* Assets.xcassets */,
+				9CDB77A22599C20E00B8A579 /* Preview Content */,
+				9CDB77A42599C20E00B8A579 /* ContentView.swift */,
+				9CDB77A52599C20E00B8A579 /* Info.plist */,
 			);
-			name = OnboardingTest;
-			path = Sources/OnboardingTest;
+			name = OnboardingMain;
+			path = Sources/OnboardingMain;
 			sourceTree = "<group>";
 		};
-		9C2907B42593576300C45C36 /* Preview Content */ = {
+		9CDB77A22599C20E00B8A579 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				9C2907B52593576300C45C36 /* Preview Assets.xcassets */,
+				9CDB77A32599C20E00B8A579 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -196,7 +196,7 @@
 			name = Products;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		OBJ_5 /*  */ = {
+		OBJ_5 = {
 			isa = PBXGroup;
 			children = (
 				OBJ_6 /* Package.swift */,
@@ -212,13 +212,12 @@
 				OBJ_25 /* Podfile */,
 				OBJ_26 /* Podfile.lock */,
 			);
-			name = "";
 			sourceTree = "<group>";
 		};
 		OBJ_7 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				9C2907B12593576300C45C36 /* OnboardingTest */,
+				9CDB779F2599C20E00B8A579 /* OnboardingMain */,
 				9C29077F2593563D00C45C36 /* Onboarding */,
 				OBJ_8 /* OnBoarding */,
 			);
@@ -300,7 +299,7 @@
 			knownRegions = (
 				en,
 			);
-			mainGroup = OBJ_5 /*  */;
+			mainGroup = OBJ_5;
 			productRefGroup = OBJ_14 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -318,9 +317,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 0;
 			files = (
-				9C2907B82593576300C45C36 /* OnboardingTestApp.swift in Sources */,
+				9CDB77A62599C20E00B8A579 /* OnboardingTestApp.swift in Sources */,
 				9C29078D2593563D00C45C36 /* LandingView.swift in Sources */,
-				9C2907B92593576300C45C36 /* ContentView.swift in Sources */,
+				9CDB77A72599C20E00B8A579 /* ContentView.swift in Sources */,
 				9C29078E2593563D00C45C36 /* OnboardingNotifications.swift in Sources */,
 				OBJ_32 /* OnBoarding.swift in Sources */,
 				9C2907902593563D00C45C36 /* OnboardingView.swift in Sources */,
@@ -413,10 +412,12 @@
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_SWIFT_FLAGS = "$(inherited) -DXcode";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx;
-				SUPPORTED_PLATFORMS = "macosx iphoneos iphonesimulator appletvos appletvsimulator watchos watchsimulator";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) SWIFT_PACKAGE DEBUG";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				USE_HEADERMAP = NO;
 			};
 			name = Debug;
@@ -461,6 +462,7 @@
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -473,6 +475,7 @@
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -484,7 +487,7 @@
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_OPTIMIZATION_LEVEL = s;
+				GCC_OPTIMIZATION_LEVEL = fast;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"$(inherited)",
 					"SWIFT_PACKAGE=1",
@@ -493,10 +496,12 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_SWIFT_FLAGS = "$(inherited) -DXcode";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx;
-				SUPPORTED_PLATFORMS = "macosx iphoneos iphonesimulator appletvos appletvsimulator watchos watchsimulator";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) SWIFT_PACKAGE";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				USE_HEADERMAP = NO;
 			};
 			name = Release;
@@ -506,6 +511,7 @@
 			buildSettings = {
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -514,6 +520,7 @@
 			buildSettings = {
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
