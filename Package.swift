@@ -24,7 +24,7 @@ let package = Package(
 			name: "OnBoarding",
 			// which lets us import it within that target's code:
 			dependencies: [],
-			path: ["Sources","OnboardingLandingFolder","OnboardingMain","OnBoardingNewFolder"],
+			path: "Sources",
 			exclude: ["OnboardingTestUITests"]),
 		
 		.testTarget(

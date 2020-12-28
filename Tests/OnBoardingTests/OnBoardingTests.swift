@@ -6,7 +6,7 @@ final class OnBoardingTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(OnBoarding().text, "Hello, World!")
+		//XCTAssertEqual(OnBoardingNew.text, "Hello, World!")
     }
 
     static var allTests = [
