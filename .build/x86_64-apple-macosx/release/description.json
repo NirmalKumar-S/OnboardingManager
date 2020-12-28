@@ -21,6 +21,20 @@
         }
       ]
     },
+    "\/Users\/nirmalkumar_s\/Downloads\/OnBoarding\/.build\/x86_64-apple-macosx\/release\/OnBoarding_OnBoarding.bundle\/Common.xcassets" : {
+      "inputs" : [
+        {
+          "kind" : "directory",
+          "name" : "\/Users\/nirmalkumar_s\/Downloads\/OnBoarding\/Sources\/OnboardingLandingFolder\/resources\/Common.xcassets"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "directory",
+          "name" : "\/Users\/nirmalkumar_s\/Downloads\/OnBoarding\/.build\/x86_64-apple-macosx\/release\/OnBoarding_OnBoarding.bundle\/Common.xcassets"
+        }
+      ]
+    },
     "\/Users\/nirmalkumar_s\/Downloads\/OnBoarding\/.build\/x86_64-apple-macosx\/release\/OnBoarding_OnBoarding.bundle\/Preview Assets.xcassets" : {
       "inputs" : [
         {

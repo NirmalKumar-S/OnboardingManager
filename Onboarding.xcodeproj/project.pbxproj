@@ -21,14 +21,14 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		9C29078C2593563D00C45C36 /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2907812593563D00C45C36 /* SplashView.swift */; };
-		9C29078D2593563D00C45C36 /* LandingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2907852593563D00C45C36 /* LandingView.swift */; };
-		9C29078E2593563D00C45C36 /* OnboardingNotifications.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2907892593563D00C45C36 /* OnboardingNotifications.swift */; };
-		9C29078F2593563D00C45C36 /* OnboardingLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C29078A2593563D00C45C36 /* OnboardingLocation.swift */; };
-		9C2907902593563D00C45C36 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C29078B2593563D00C45C36 /* OnboardingView.swift */; };
 		9CDB77A62599C20E00B8A579 /* OnboardingTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CDB77A02599C20E00B8A579 /* OnboardingTestApp.swift */; };
 		9CDB77A72599C20E00B8A579 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CDB77A42599C20E00B8A579 /* ContentView.swift */; };
-		OBJ_32 /* OnBoarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_9 /* OnBoarding.swift */; };
+		9CDB77DA2599D30700B8A579 /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CDB77CF2599D30700B8A579 /* SplashView.swift */; };
+		9CDB77DB2599D30700B8A579 /* LandingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CDB77D12599D30700B8A579 /* LandingView.swift */; };
+		9CDB77DC2599D30700B8A579 /* OnboardingNotifications.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CDB77D42599D30700B8A579 /* OnboardingNotifications.swift */; };
+		9CDB77DD2599D30700B8A579 /* OnboardingLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CDB77D52599D30700B8A579 /* OnboardingLocation.swift */; };
+		9CDB77DE2599D30700B8A579 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CDB77D62599D30700B8A579 /* OnboardingView.swift */; };
+		9CDB77DF2599D30700B8A579 /* OnBoardingNew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CDB77D92599D30700B8A579 /* OnBoardingNew.swift */; };
 		OBJ_39 /* Package.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_6 /* Package.swift */; };
 		OBJ_50 /* OnBoardingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_12 /* OnBoardingTests.swift */; };
 		OBJ_51 /* XCTestManifests.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_13 /* XCTestManifests.swift */; };
@@ -53,19 +53,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		9C2907812593563D00C45C36 /* SplashView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
-		9C2907832593563D00C45C36 /* Common.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Common.xcassets; sourceTree = "<group>"; };
-		9C2907852593563D00C45C36 /* LandingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LandingView.swift; sourceTree = "<group>"; };
-		9C2907862593563D00C45C36 /* Onboarding.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Onboarding.h; sourceTree = "<group>"; };
-		9C2907872593563D00C45C36 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9C2907892593563D00C45C36 /* OnboardingNotifications.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingNotifications.swift; sourceTree = "<group>"; };
-		9C29078A2593563D00C45C36 /* OnboardingLocation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingLocation.swift; sourceTree = "<group>"; };
-		9C29078B2593563D00C45C36 /* OnboardingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		9CDB77A02599C20E00B8A579 /* OnboardingTestApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingTestApp.swift; sourceTree = "<group>"; };
 		9CDB77A12599C20E00B8A579 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9CDB77A32599C20E00B8A579 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9CDB77A42599C20E00B8A579 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9CDB77A52599C20E00B8A579 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9CDB77CD2599D30700B8A579 /* Common.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Common.xcassets; sourceTree = "<group>"; };
+		9CDB77CF2599D30700B8A579 /* SplashView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
+		9CDB77D12599D30700B8A579 /* LandingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LandingView.swift; sourceTree = "<group>"; };
+		9CDB77D22599D30700B8A579 /* Onboarding.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Onboarding.h; sourceTree = "<group>"; };
+		9CDB77D42599D30700B8A579 /* OnboardingNotifications.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingNotifications.swift; sourceTree = "<group>"; };
+		9CDB77D52599D30700B8A579 /* OnboardingLocation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingLocation.swift; sourceTree = "<group>"; };
+		9CDB77D62599D30700B8A579 /* OnboardingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		9CDB77D72599D30700B8A579 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9CDB77D92599D30700B8A579 /* OnBoardingNew.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnBoardingNew.swift; sourceTree = "<group>"; };
 		OBJ_12 /* OnBoardingTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoardingTests.swift; sourceTree = "<group>"; };
 		OBJ_13 /* XCTestManifests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCTestManifests.swift; sourceTree = "<group>"; };
 		OBJ_17 /* OnboardingTestUITests */ = {isa = PBXFileReference; lastKnownFileType = folder; path = OnboardingTestUITests; sourceTree = SOURCE_ROOT; };
@@ -77,7 +78,6 @@
 		OBJ_25 /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		OBJ_26 /* Podfile.lock */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile.lock; sourceTree = "<group>"; };
 		OBJ_6 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
-		OBJ_9 /* OnBoarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoarding.swift; sourceTree = "<group>"; };
 		"OnBoarding::OnBoarding::Product" /* OnBoarding.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = OnBoarding.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		"OnBoarding::OnBoardingTests::Product" /* OnBoardingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; path = OnBoardingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -101,53 +101,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		9C29077F2593563D00C45C36 /* Onboarding */ = {
-			isa = PBXGroup;
-			children = (
-				9C2907802593563D00C45C36 /* Splash */,
-				9C2907822593563D00C45C36 /* resources */,
-				9C2907842593563D00C45C36 /* LandingView */,
-				9C2907862593563D00C45C36 /* Onboarding.h */,
-				9C2907872593563D00C45C36 /* Info.plist */,
-				9C2907882593563D00C45C36 /* Onboarding */,
-			);
-			path = Onboarding;
-			sourceTree = "<group>";
-		};
-		9C2907802593563D00C45C36 /* Splash */ = {
-			isa = PBXGroup;
-			children = (
-				9C2907812593563D00C45C36 /* SplashView.swift */,
-			);
-			path = Splash;
-			sourceTree = "<group>";
-		};
-		9C2907822593563D00C45C36 /* resources */ = {
-			isa = PBXGroup;
-			children = (
-				9C2907832593563D00C45C36 /* Common.xcassets */,
-			);
-			path = resources;
-			sourceTree = "<group>";
-		};
-		9C2907842593563D00C45C36 /* LandingView */ = {
-			isa = PBXGroup;
-			children = (
-				9C2907852593563D00C45C36 /* LandingView.swift */,
-			);
-			path = LandingView;
-			sourceTree = "<group>";
-		};
-		9C2907882593563D00C45C36 /* Onboarding */ = {
-			isa = PBXGroup;
-			children = (
-				9C2907892593563D00C45C36 /* OnboardingNotifications.swift */,
-				9C29078A2593563D00C45C36 /* OnboardingLocation.swift */,
-				9C29078B2593563D00C45C36 /* OnboardingView.swift */,
-			);
-			path = Onboarding;
-			sourceTree = "<group>";
-		};
 		9CDB779F2599C20E00B8A579 /* OnboardingMain */ = {
 			isa = PBXGroup;
 			children = (
@@ -167,6 +120,63 @@
 				9CDB77A32599C20E00B8A579 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		9CDB77CB2599D30700B8A579 /* OnboardingLandingFolder */ = {
+			isa = PBXGroup;
+			children = (
+				9CDB77CC2599D30700B8A579 /* resources */,
+				9CDB77CE2599D30700B8A579 /* SplashView */,
+				9CDB77D02599D30700B8A579 /* LandingView */,
+				9CDB77D22599D30700B8A579 /* Onboarding.h */,
+				9CDB77D32599D30700B8A579 /* OnboardingLocationFolder */,
+				9CDB77D72599D30700B8A579 /* Info.plist */,
+			);
+			name = OnboardingLandingFolder;
+			path = Sources/OnboardingLandingFolder;
+			sourceTree = "<group>";
+		};
+		9CDB77CC2599D30700B8A579 /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				9CDB77CD2599D30700B8A579 /* Common.xcassets */,
+			);
+			path = resources;
+			sourceTree = "<group>";
+		};
+		9CDB77CE2599D30700B8A579 /* SplashView */ = {
+			isa = PBXGroup;
+			children = (
+				9CDB77CF2599D30700B8A579 /* SplashView.swift */,
+			);
+			path = SplashView;
+			sourceTree = "<group>";
+		};
+		9CDB77D02599D30700B8A579 /* LandingView */ = {
+			isa = PBXGroup;
+			children = (
+				9CDB77D12599D30700B8A579 /* LandingView.swift */,
+			);
+			path = LandingView;
+			sourceTree = "<group>";
+		};
+		9CDB77D32599D30700B8A579 /* OnboardingLocationFolder */ = {
+			isa = PBXGroup;
+			children = (
+				9CDB77D42599D30700B8A579 /* OnboardingNotifications.swift */,
+				9CDB77D52599D30700B8A579 /* OnboardingLocation.swift */,
+				9CDB77D62599D30700B8A579 /* OnboardingView.swift */,
+			);
+			path = OnboardingLocationFolder;
+			sourceTree = "<group>";
+		};
+		9CDB77D82599D30700B8A579 /* OnBoardingNewFolder */ = {
+			isa = PBXGroup;
+			children = (
+				9CDB77D92599D30700B8A579 /* OnBoardingNew.swift */,
+			);
+			name = OnBoardingNewFolder;
+			path = Sources/OnBoardingNewFolder;
 			sourceTree = "<group>";
 		};
 		OBJ_10 /* Tests */ = {
@@ -217,20 +227,11 @@
 		OBJ_7 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
+				9CDB77CB2599D30700B8A579 /* OnboardingLandingFolder */,
+				9CDB77D82599D30700B8A579 /* OnBoardingNewFolder */,
 				9CDB779F2599C20E00B8A579 /* OnboardingMain */,
-				9C29077F2593563D00C45C36 /* Onboarding */,
-				OBJ_8 /* OnBoarding */,
 			);
 			name = Sources;
-			sourceTree = SOURCE_ROOT;
-		};
-		OBJ_8 /* OnBoarding */ = {
-			isa = PBXGroup;
-			children = (
-				OBJ_9 /* OnBoarding.swift */,
-			);
-			name = OnBoarding;
-			path = Sources/OnBoarding;
 			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
@@ -317,14 +318,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 0;
 			files = (
+				9CDB77DB2599D30700B8A579 /* LandingView.swift in Sources */,
+				9CDB77DD2599D30700B8A579 /* OnboardingLocation.swift in Sources */,
 				9CDB77A62599C20E00B8A579 /* OnboardingTestApp.swift in Sources */,
-				9C29078D2593563D00C45C36 /* LandingView.swift in Sources */,
+				9CDB77DF2599D30700B8A579 /* OnBoardingNew.swift in Sources */,
+				9CDB77DC2599D30700B8A579 /* OnboardingNotifications.swift in Sources */,
 				9CDB77A72599C20E00B8A579 /* ContentView.swift in Sources */,
-				9C29078E2593563D00C45C36 /* OnboardingNotifications.swift in Sources */,
-				OBJ_32 /* OnBoarding.swift in Sources */,
-				9C2907902593563D00C45C36 /* OnboardingView.swift in Sources */,
-				9C29078C2593563D00C45C36 /* SplashView.swift in Sources */,
-				9C29078F2593563D00C45C36 /* OnboardingLocation.swift in Sources */,
+				9CDB77DA2599D30700B8A579 /* SplashView.swift in Sources */,
+				9CDB77DE2599D30700B8A579 /* OnboardingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -364,6 +365,7 @@
 		OBJ_29 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ENABLE_BITCODE = NO;
 				ENABLE_TESTABILITY = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -401,7 +403,7 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_NS_ASSERTIONS = YES;
-				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_OPTIMIZATION_LEVEL = fast;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"$(inherited)",
 					"SWIFT_PACKAGE=1",
@@ -425,6 +427,7 @@
 		OBJ_30 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ENABLE_BITCODE = NO;
 				ENABLE_TESTABILITY = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -456,6 +459,7 @@
 		OBJ_36 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ENABLE_BITCODE = NO;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD = /usr/bin/true;
 				OTHER_SWIFT_FLAGS = "-swift-version 5 -I $(TOOLCHAIN_DIR)/usr/lib/swift/pm/4_2 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -package-description-version 5.3.0";
@@ -469,6 +473,7 @@
 		OBJ_37 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ENABLE_BITCODE = NO;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD = /usr/bin/true;
 				OTHER_SWIFT_FLAGS = "-swift-version 5 -I $(TOOLCHAIN_DIR)/usr/lib/swift/pm/4_2 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -package-description-version 5.3.0";
@@ -509,6 +514,7 @@
 		OBJ_42 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ENABLE_BITCODE = NO;
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -518,6 +524,7 @@
 		OBJ_43 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ENABLE_BITCODE = NO;
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				TARGETED_DEVICE_FAMILY = "1,2";

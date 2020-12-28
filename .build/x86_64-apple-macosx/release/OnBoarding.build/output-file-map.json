@@ -4,10 +4,35 @@
     "object": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnBoarding.o",
     "swift-dependencies": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/master.swiftdeps"
   },
-  "/Users/nirmalkumar_s/Downloads/OnBoarding/Sources/OnBoarding/OnBoarding.swift": {
-    "object": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnBoarding/OnBoarding.swift.o",
-    "swiftmodule": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnBoarding/OnBoarding~partial.swiftmodule",
-    "swift-dependencies": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnBoarding/OnBoarding.swiftdeps"
+  "/Users/nirmalkumar_s/Downloads/OnBoarding/Sources/OnBoardingNewFolder/OnBoardingNew.swift": {
+    "object": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnBoardingNewFolder/OnBoardingNew.swift.o",
+    "swiftmodule": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnBoardingNewFolder/OnBoardingNew~partial.swiftmodule",
+    "swift-dependencies": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnBoardingNewFolder/OnBoardingNew.swiftdeps"
+  },
+  "/Users/nirmalkumar_s/Downloads/OnBoarding/Sources/OnboardingLandingFolder/LandingView/LandingView.swift": {
+    "object": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnboardingLandingFolder/LandingView/LandingView.swift.o",
+    "swiftmodule": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnboardingLandingFolder/LandingView/LandingView~partial.swiftmodule",
+    "swift-dependencies": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnboardingLandingFolder/LandingView/LandingView.swiftdeps"
+  },
+  "/Users/nirmalkumar_s/Downloads/OnBoarding/Sources/OnboardingLandingFolder/OnboardingLocationFolder/OnboardingLocation.swift": {
+    "object": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnboardingLandingFolder/OnboardingLocationFolder/OnboardingLocation.swift.o",
+    "swiftmodule": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnboardingLandingFolder/OnboardingLocationFolder/OnboardingLocation~partial.swiftmodule",
+    "swift-dependencies": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnboardingLandingFolder/OnboardingLocationFolder/OnboardingLocation.swiftdeps"
+  },
+  "/Users/nirmalkumar_s/Downloads/OnBoarding/Sources/OnboardingLandingFolder/OnboardingLocationFolder/OnboardingNotifications.swift": {
+    "object": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnboardingLandingFolder/OnboardingLocationFolder/OnboardingNotifications.swift.o",
+    "swiftmodule": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnboardingLandingFolder/OnboardingLocationFolder/OnboardingNotifications~partial.swiftmodule",
+    "swift-dependencies": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnboardingLandingFolder/OnboardingLocationFolder/OnboardingNotifications.swiftdeps"
+  },
+  "/Users/nirmalkumar_s/Downloads/OnBoarding/Sources/OnboardingLandingFolder/OnboardingLocationFolder/OnboardingView.swift": {
+    "object": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnboardingLandingFolder/OnboardingLocationFolder/OnboardingView.swift.o",
+    "swiftmodule": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnboardingLandingFolder/OnboardingLocationFolder/OnboardingView~partial.swiftmodule",
+    "swift-dependencies": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnboardingLandingFolder/OnboardingLocationFolder/OnboardingView.swiftdeps"
+  },
+  "/Users/nirmalkumar_s/Downloads/OnBoarding/Sources/OnboardingLandingFolder/SplashView/SplashView.swift": {
+    "object": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnboardingLandingFolder/SplashView/SplashView.swift.o",
+    "swiftmodule": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnboardingLandingFolder/SplashView/SplashView~partial.swiftmodule",
+    "swift-dependencies": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnboardingLandingFolder/SplashView/SplashView.swiftdeps"
   },
   "/Users/nirmalkumar_s/Downloads/OnBoarding/Sources/OnboardingMain/ContentView.swift": {
     "object": "/Users/nirmalkumar_s/Downloads/OnBoarding/.build/x86_64-apple-macosx/release/OnBoarding.build/OnboardingMain/ContentView.swift.o",
