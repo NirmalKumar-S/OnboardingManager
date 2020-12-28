@@ -7,7 +7,34 @@
     }
   ],
   "copyCommands" : {
-
+    "\/Users\/nirmalkumar_s\/Downloads\/OnBoarding\/.build\/x86_64-apple-macosx\/release\/OnBoarding_OnBoarding.bundle\/Assets.xcassets" : {
+      "inputs" : [
+        {
+          "kind" : "directory",
+          "name" : "\/Users\/nirmalkumar_s\/Downloads\/OnBoarding\/Sources\/OnboardingMain\/Assets.xcassets"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "directory",
+          "name" : "\/Users\/nirmalkumar_s\/Downloads\/OnBoarding\/.build\/x86_64-apple-macosx\/release\/OnBoarding_OnBoarding.bundle\/Assets.xcassets"
+        }
+      ]
+    },
+    "\/Users\/nirmalkumar_s\/Downloads\/OnBoarding\/.build\/x86_64-apple-macosx\/release\/OnBoarding_OnBoarding.bundle\/Preview Assets.xcassets" : {
+      "inputs" : [
+        {
+          "kind" : "directory",
+          "name" : "\/Users\/nirmalkumar_s\/Downloads\/OnBoarding\/Sources\/OnboardingMain\/Preview Content\/Preview Assets.xcassets"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "directory",
+          "name" : "\/Users\/nirmalkumar_s\/Downloads\/OnBoarding\/.build\/x86_64-apple-macosx\/release\/OnBoarding_OnBoarding.bundle\/Preview Assets.xcassets"
+        }
+      ]
+    }
   },
   "swiftTargetMap" : {
     "C.OnBoarding-release.module" : "OnBoarding",

@@ -10,7 +10,7 @@ let package = Package(
 		// Products define the executables and libraries a package produces, and make them visible to other packages.
 		.library(
 			name: "OnBoarding",
-			type: .dynamic, targets: ["OnBoarding"]),
+			targets: ["OnBoarding"]),
 	],
 	dependencies: [
 		// Dependencies declare other packages that this package depends on.
@@ -24,8 +24,8 @@ let package = Package(
 			name: "OnBoarding",
 			// which lets us import it within that target's code:
 			dependencies: [],
-			path: "Sources",
-			exclude: ["Pods", "Tests", "OnboardingTests", "OnboardingTestTests", "OnboardingTestUITests"]),
+			path: ["Sources","OnboardingLandingFolder","OnboardingMain","OnBoardingNewFolder"],
+			exclude: ["OnboardingTestUITests"]),
 		
 		.testTarget(
 			name: "OnBoardingTests",
